@@ -30,10 +30,10 @@
     "karma": ">=0.9"
   },
   "dependencies": {
-    "chai": "~1.7.2",
-    "chai-jquery": "~1.1.1",
-    "chai-as-promised": "~3.3.1",
-    "sinon": "~1.7.3",
-    "sinon-chai": "~2.4.0"
+    "chai": ">=1.7.2",
+    "chai-jquery": ">=1.1.1",
+    "chai-as-promised": ">=3.3.1",
+    "sinon": ">=1.7.3",
+    "sinon-chai": ">=2.4.0"
   }
 }
